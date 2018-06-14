@@ -19,7 +19,7 @@ Visual Studio 2017 and Visual Studio 2015 support side-by-side installation and 
 Download and install the following:
 
 1. [.NET Micro Framework (.NETMF) v4.4.0 SDK](https://github.com/NETMF/netmf-interpreter/releases/tag/v4.4-RTW-20-Oct-2015)
-2. NETMF Plugin for Visual Studio [Visual Studio 2017](https://www.wildernesslabs.co/downloads?f=/NETMF_SDK/netmfvs15xxxxxxxxxxxxxxxxxxx.vsix)
+2. NETMF Plugin for [Visual Studio 2017](https://www.wildernesslabs.co/downloads?f=/NETMF_SDK/netmfvs15xxxxxxxxxxxxxxxxxxx.vsix)
 3. [Preview 4.4 Netduino SDK](https://www.wildernesslabs.co/downloads?f=/Netduino_SDK/netduinosdk_v44.exe)
 
 # Reverting to Visual Studio 2015 and v4.3
